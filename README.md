@@ -1,5 +1,5 @@
 # Pinyin-ARPAbet-SynthV-Dictionary
-Pinyin & Wade-Giles support for English Synthesizer V Voicebanks
+Pinyin support for English Synthesizer V Voicebanks
 
 # Installation Guide:
 <p>1. Download .json files</p>
