@@ -1,0 +1,1372 @@
+{
+  "data": [
+    {
+      "w": "a",
+      "p": "aa"
+    },
+    {
+      "w": "ai",
+      "p": "ay"
+    },
+    {
+      "w": "an",
+      "p": "aa n"
+    },
+    {
+      "w": "ang",
+      "p": "ao ng"
+    },
+    {
+      "w": "ao",
+      "p": "aw"
+    },
+    {
+      "w": "ba",
+      "p": "b aa"
+    },
+    {
+      "w": "bai",
+      "p": "b ay"
+    },
+    {
+      "w": "ban",
+      "p": "b aa n"
+    },
+    {
+      "w": "bang",
+      "p": "b aa ng"
+    },
+    {
+      "w": "ben",
+      "p": "b ah n"
+    },
+    {
+      "w": "beng",
+      "p": "b ah ng"
+    },
+    {
+      "w": "bi",
+      "p": "b iy"
+    },
+    {
+      "w": "bia",
+      "p": "b y aa"
+    },
+    {
+      "w": "bian",
+      "p": "b y eh n"
+    },
+    {
+      "w": "biang",
+      "p": "b y aa ng"
+    },
+    {
+      "w": "biao",
+      "p": "b y aw"
+    },
+    {
+      "w": "bie",
+      "p": "b y eh"
+    },
+    {
+      "w": "bin",
+      "p": "b iy n"
+    },
+    {
+      "w": "bing",
+      "p": "b iy ng"
+    },
+    {
+      "w": "biu",
+      "p": "b y ow"
+    },
+    {
+      "w": "bo",
+      "p": "b ow"
+    },
+    {
+      "w": "bong",
+      "p": "b ow ng"
+    },
+    {
+      "w": "bou",
+      "p": "b ow"
+    },
+    {
+      "w": "bua",
+      "p": "b w aa"
+    },
+    {
+      "w": "buai",
+      "p": "b w ay"
+    },
+    {
+      "w": "buan",
+      "p": "b w a N"
+    },
+    {
+      "w": "buang",
+      "p": "b w a N"
+    },
+    {
+      "w": "byong",
+      "p": "by o N"
+    },
+    {
+      "w": "cai",
+      "p": "s ay"
+    },
+    {
+      "w": "can",
+      "p": "t s aa n"
+    },
+    {
+      "w": "cang",
+      "p": "s aa ng"
+    },
+    {
+      "w": "cao",
+      "p": "s aw"
+    },
+    {
+      "w": "ce",
+      "p": "s aa"
+    },
+    {
+      "w": "cei",
+      "p": "s ey"
+    },
+    {
+      "w": "cen",
+      "p": "s ah n"
+    },
+    {
+      "w": "ceng",
+      "p": "s ao ng"
+    },
+    {
+      "w": "cha",
+      "p": "ch aa"
+    },
+    {
+      "w": "chai",
+      "p": "ch ay"
+    },
+    {
+      "w": "chang",
+      "p": "ch aa ng"
+    },
+    {
+      "w": "chen",
+      "p": "ch ax n"
+    },
+    {
+      "w": "chi",
+      "p": "ch er"
+    },
+    {
+      "w": "chou",
+      "p": "ch ow"
+    },
+    {
+      "w": "chuang",
+      "p": "ch w ao ng"
+    },
+    {
+      "w": "ci",
+      "p": "s uh"
+    },
+    {
+      "w": "co",
+      "p": "s ow"
+    },
+    {
+      "w": "cong",
+      "p": "s ow ng"
+    },
+    {
+      "w": "cou",
+      "p": "s ow"
+    },
+    {
+      "w": "cu",
+      "p": "s uw"
+    },
+    {
+      "w": "cua",
+      "p": "s w aa"
+    },
+    {
+      "w": "da",
+      "p": "d aa"
+    },
+    {
+      "w": "dai",
+      "p": "d ay"
+    },
+    {
+      "w": "dan",
+      "p": "d aa n"
+    },
+    {
+      "w": "dang",
+      "p": "d ao ng"
+    },
+    {
+      "w": "de",
+      "p": "d aa"
+    },
+    {
+      "w": "diao",
+      "p": "d y aw"
+    },
+    {
+      "w": "ding",
+      "p": "d iy ng"
+    },
+    {
+      "w": "dong",
+      "p": "d ow ng"
+    },
+    {
+      "w": "dou",
+      "p": "d ow"
+    },
+    {
+      "w": "dui",
+      "p": "d w ey"
+    },
+    {
+      "w": "dun",
+      "p": "d w eh n"
+    },
+    {
+      "w": "e",
+      "p": "uh"
+    },
+    {
+      "w": "ei",
+      "p": "ey"
+    },
+    {
+      "w": "en",
+      "p": "ax n"
+    },
+    {
+      "w": "eng",
+      "p": "ax ng"
+    },
+    {
+      "w": "er",
+      "p": "aa r"
+    },
+    {
+      "w": "fa",
+      "p": "f aa"
+    },
+    {
+      "w": "fai",
+      "p": "f ay"
+    },
+    {
+      "w": "fan",
+      "p": "f ah n"
+    },
+    {
+      "w": "fe",
+      "p": "f aa"
+    },
+    {
+      "w": "fen",
+      "p": "f ax n"
+    },
+    {
+      "w": "feng",
+      "p": "f ao ng"
+    },
+    {
+      "w": "fou",
+      "p": "f ow"
+    },
+    {
+      "w": "ga",
+      "p": "g aa"
+    },
+    {
+      "w": "gai",
+      "p": "g ay"
+    },
+    {
+      "w": "ge",
+      "p": "g uh"
+    },
+    {
+      "w": "gou",
+      "p": "g ow"
+    },
+    {
+      "w": "guo",
+      "p": "g w ow"
+    },
+    {
+      "w": "ha",
+      "p": "hh aa"
+    },
+    {
+      "w": "hai",
+      "p": "hh ay"
+    },
+    {
+      "w": "he",
+      "p": "hh aa"
+    },
+    {
+      "w": "hei",
+      "p": "hh ey"
+    },
+    {
+      "w": "hou",
+      "p": "hh ow"
+    },
+    {
+      "w": "hua",
+      "p": "w aa"
+    },
+    {
+      "w": "hui",
+      "p": "hh w ey"
+    },
+    {
+      "w": "ia",
+      "p": "y aa"
+    },
+    {
+      "w": "jai",
+      "p": "jh ay"
+    },
+    {
+      "w": "jian",
+      "p": "jh y eh n"
+    },
+    {
+      "w": "jie",
+      "p": "jh y eh"
+    },
+    {
+      "w": "jin",
+      "p": "jh iy n"
+    },
+    {
+      "w": "ke",
+      "p": "k uh"
+    },
+    {
+      "w": "kong",
+      "p": "k ow ng"
+    },
+    {
+      "w": "kuo",
+      "p": "k w ow"
+    },
+    {
+      "w": "lan",
+      "p": "l aa n"
+    },
+    {
+      "w": "lang",
+      "p": "l aa ng"
+    },
+    {
+      "w": "le",
+      "p": "l aa"
+    },
+    {
+      "w": "lian",
+      "p": "l y eh n"
+    },
+    {
+      "w": "liao",
+      "p": "l y aw"
+    },
+    {
+      "w": "ling",
+      "p": "l iy ng"
+    },
+    {
+      "w": "lo",
+      "p": "l ow"
+    },
+    {
+      "w": "lou",
+      "p": "l ow"
+    },
+    {
+      "w": "low",
+      "p": "l ow"
+    },
+    {
+      "w": "man",
+      "p": "m aa n"
+    },
+    {
+      "w": "mang",
+      "p": "m aa ng"
+    },
+    {
+      "w": "me",
+      "p": "m ax"
+    },
+    {
+      "w": "meng",
+      "p": "m ax ng"
+    },
+    {
+      "w": "mian",
+      "p": "m y eh n"
+    },
+    {
+      "w": "ming",
+      "p": "m iy ng"
+    },
+    {
+      "w": "mou",
+      "p": "m ow"
+    },
+    {
+      "w": "neng",
+      "p": "n ao ng"
+    },
+    {
+      "w": "ning",
+      "p": "n iy ng"
+    },
+    {
+      "w": "niu",
+      "p": "n y ow"
+    },
+    {
+      "w": "nong",
+      "p": "n ow ng"
+    },
+    {
+      "w": "nui",
+      "p": "n w ey"
+    },
+    {
+      "w": "ou",
+      "p": "ow"
+    },
+    {
+      "w": "peng",
+      "p": "p uh ng"
+    },
+    {
+      "w": "pi",
+      "p": "p iy"
+    },
+    {
+      "w": "pian",
+      "p": "p y eh n"
+    },
+    {
+      "w": "piao",
+      "p": "p y aw"
+    },
+    {
+      "w": "pou",
+      "p": "p ow"
+    },
+    {
+      "w": "qi",
+      "p": "ch iy"
+    },
+    {
+      "w": "qia",
+      "p": "ch y aa"
+    },
+    {
+      "w": "qian",
+      "p": "ch y eh n"
+    },
+    {
+      "w": "qiao",
+      "p": "ch y aw"
+    },
+    {
+      "w": "qin",
+      "p": "ch iy n"
+    },
+    {
+      "w": "qing",
+      "p": "ch iy ng"
+    },
+    {
+      "w": "qu",
+      "p": "ch y"
+    },
+    {
+      "w": "quan",
+      "p": "ch w eh n"
+    },
+    {
+      "w": "que",
+      "p": "ch w eh"
+    },
+    {
+      "w": "qun",
+      "p": "ch w eh n"
+    },
+    {
+      "w": "ren",
+      "p": "r ax n"
+    },
+    {
+      "w": "ri",
+      "p": "r er"
+    },
+    {
+      "w": "rui",
+      "p": "r w ey"
+    },
+    {
+      "w": "san",
+      "p": "s aa n"
+    },
+    {
+      "w": "se",
+      "p": "s aa"
+    },
+    {
+      "w": "shang",
+      "p": "sh ao ng"
+    },
+    {
+      "w": "sheng",
+      "p": "sh ax ng"
+    },
+    {
+      "w": "shi",
+      "p": "sh er"
+    },
+    {
+      "w": "shou",
+      "p": "sh ow"
+    },
+    {
+      "w": "shuang",
+      "p": "sh w ao ng"
+    },
+    {
+      "w": "shui",
+      "p": "sh w ey"
+    },
+    {
+      "w": "si",
+      "p": "s uh"
+    },
+    {
+      "w": "tang",
+      "p": "t aa ng"
+    },
+    {
+      "w": "tian",
+      "p": "t y eh n"
+    },
+    {
+      "w": "tong",
+      "p": "t ow ng"
+    },
+    {
+      "w": "tun",
+      "p": "t w eh n"
+    },
+    {
+      "w": "un",
+      "p": "w eh n"
+    },
+    {
+      "w": "uo",
+      "p": "w ow"
+    },
+    {
+      "w": "v",
+      "p": "y"
+    },
+    {
+      "w": "wen",
+      "p": "w ah n"
+    },
+    {
+      "w": "wu",
+      "p": "uw"
+    },
+    {
+      "w": "xi",
+      "p": "sh iy"
+    },
+    {
+      "w": "xian",
+      "p": "sh y eh n"
+    },
+    {
+      "w": "xiao",
+      "p": "zh y aw"
+    },
+    {
+      "w": "yan",
+      "p": "y eh n"
+    },
+    {
+      "w": "yang",
+      "p": "y ao ng"
+    },
+    {
+      "w": "ye",
+      "p": "y eh"
+    },
+    {
+      "w": "yi",
+      "p": "iy"
+    },
+    {
+      "w": "yin",
+      "p": "y iy n"
+    },
+    {
+      "w": "you",
+      "p": "y ow"
+    },
+    {
+      "w": "yu",
+      "p": "y"
+    },
+    {
+      "w": "yuan",
+      "p": "y w eh n"
+    },
+    {
+      "w": "yue",
+      "p": "y w eh"
+    },
+    {
+      "w": "yun",
+      "p": "y w iy n"
+    },
+    {
+      "w": "zhan",
+      "p": "jh aa n"
+    },
+    {
+      "w": "zhang",
+      "p": "jh aa ng"
+    },
+    {
+      "w": "zhao",
+      "p": "jh aw"
+    },
+    {
+      "w": "zhe",
+      "p": "jh ah"
+    },
+    {
+      "w": "zhi",
+      "p": "jh er"
+    },
+    {
+      "w": "zhong",
+      "p": "jh ow ng"
+    },
+    {
+      "w": "zhou",
+      "p": "jh ow"
+    },
+    {
+      "w": "zhu",
+      "p": "jh uw"
+    },
+    {
+      "w": "zhuang",
+      "p": "jh w ao ng"
+    },
+    {
+      "w": "zhuo",
+      "p": "jh w ow"
+    },
+    {
+      "w": "zong",
+      "p": "z ow ng"
+    },
+    {
+      "w": "zou",
+      "p": "z ow"
+    },
+    {
+      "w": "zui",
+      "p": "z ey"
+    },
+    {
+      "w": "zuo",
+      "p": "z w ow"
+    },
+    {
+      "w": "\u4e00",
+      "p": "iy"
+    },
+    {
+      "w": "\u4e03",
+      "p": "ch iy"
+    },
+    {
+      "w": "\u4e09",
+      "p": "s aa n"
+    },
+    {
+      "w": "\u4e0a",
+      "p": "sh aa ng"
+    },
+    {
+      "w": "\u4e0b",
+      "p": "sh y aa"
+    },
+    {
+      "w": "\u4e0d",
+      "p": "b uw"
+    },
+    {
+      "w": "\u4e13",
+      "p": "jh w aa n"
+    },
+    {
+      "w": "\u4e1c",
+      "p": "d ow ng"
+    },
+    {
+      "w": "\u4e22",
+      "p": "d y ow"
+    },
+    {
+      "w": "\u4e2d",
+      "p": "jh ow ng"
+    },
+    {
+      "w": "\u4e48",
+      "p": "m ax"
+    },
+    {
+      "w": "\u4e5f",
+      "p": "y eh"
+    },
+    {
+      "w": "\u4e70",
+      "p": "m ay"
+    },
+    {
+      "w": "\u4e8c",
+      "p": "er"
+    },
+    {
+      "w": "\u4e94",
+      "p": "uw"
+    },
+    {
+      "w": "\u4eac",
+      "p": "jh iy ng"
+    },
+    {
+      "w": "\u4eca",
+      "p": "jh iy n"
+    },
+    {
+      "w": "\u4ece",
+      "p": "z ow ng"
+    },
+    {
+      "w": "\u4ed6",
+      "p": "t aa"
+    },
+    {
+      "w": "\u4f1a",
+      "p": "hh w ey"
+    },
+    {
+      "w": "\u4f53",
+      "p": "t iy"
+    },
+    {
+      "w": "\u4f55",
+      "p": "hh ax"
+    },
+    {
+      "w": "\u4f60",
+      "p": "n iy"
+    },
+    {
+      "w": "\u4f9d",
+      "p": "iy"
+    },
+    {
+      "w": "\u5076",
+      "p": "ow"
+    },
+    {
+      "w": "\u50cf",
+      "p": "sh y aa ng"
+    },
+    {
+      "w": "\u513f",
+      "p": "er"
+    },
+    {
+      "w": "\u5143",
+      "p": "y w eh n"
+    },
+    {
+      "w": "\u5149",
+      "p": "g w aa ng"
+    },
+    {
+      "w": "\u515a",
+      "p": "p y aw"
+    },
+    {
+      "w": "\u5168",
+      "p": "jh w ae n"
+    },
+    {
+      "w": "\u516b",
+      "p": "b aa"
+    },
+    {
+      "w": "\u516d",
+      "p": "l y ow"
+    },
+    {
+      "w": "\u5206",
+      "p": "f ax n"
+    },
+    {
+      "w": "\u5207",
+      "p": "ch y eh"
+    },
+    {
+      "w": "\u5239",
+      "p": "ch aa"
+    },
+    {
+      "w": "\u524d",
+      "p": "ch y eh n"
+    },
+    {
+      "w": "\u52a0",
+      "p": "jh y aa"
+    },
+    {
+      "w": "\u5305",
+      "p": "b aw"
+    },
+    {
+      "w": "\u5317",
+      "p": "b ey"
+    },
+    {
+      "w": "\u533b",
+      "p": "iy"
+    },
+    {
+      "w": "\u5348",
+      "p": "uw"
+    },
+    {
+      "w": "\u53bb",
+      "p": "ch y"
+    },
+    {
+      "w": "\u53cb",
+      "p": "y ow"
+    },
+    {
+      "w": "\u53d1",
+      "p": "f aa"
+    },
+    {
+      "w": "\u53e3",
+      "p": "k ow"
+    },
+    {
+      "w": "\u53ef",
+      "p": "k ax"
+    },
+    {
+      "w": "\u53f0",
+      "p": "t ay"
+    },
+    {
+      "w": "\u5404",
+      "p": "m iy ng"
+    },
+    {
+      "w": "\u540e",
+      "p": "hh ow"
+    },
+    {
+      "w": "\u5411",
+      "p": "s y aa ng"
+    },
+    {
+      "w": "\u5427",
+      "p": "b aa"
+    },
+    {
+      "w": "\u5496",
+      "p": "k aa"
+    },
+    {
+      "w": "\u54ce",
+      "p": "ay"
+    },
+    {
+      "w": "\u5509",
+      "p": "ay"
+    },
+    {
+      "w": "\u5561",
+      "p": "f ey"
+    },
+    {
+      "w": "\u559c",
+      "p": "sh iy"
+    },
+    {
+      "w": "\u561b",
+      "p": "m aa"
+    },
+    {
+      "w": "\u56db",
+      "p": "s ih"
+    },
+    {
+      "w": "\u5728",
+      "p": "z ay"
+    },
+    {
+      "w": "\u57fa",
+      "p": "jh iy"
+    },
+    {
+      "w": "\u591a",
+      "p": "d w ow"
+    },
+    {
+      "w": "\u5929",
+      "p": "t y eh n"
+    },
+    {
+      "w": "\u592a",
+      "p": "t ay"
+    },
+    {
+      "w": "\u592e",
+      "p": "y aa ng"
+    },
+    {
+      "w": "\u5934",
+      "p": "t ow"
+    },
+    {
+      "w": "\u5973",
+      "p": "n y"
+    },
+    {
+      "w": "\u5979",
+      "p": "t aa"
+    },
+    {
+      "w": "\u5996",
+      "p": "y aw"
+    },
+    {
+      "w": "\u5b50",
+      "p": "z ih"
+    },
+    {
+      "w": "\u5b66",
+      "p": "sh w eh"
+    },
+    {
+      "w": "\u5b69",
+      "p": "hh ay"
+    },
+    {
+      "w": "\u5b81",
+      "p": "n iy ng"
+    },
+    {
+      "w": "\u5b83",
+      "p": "t aa"
+    },
+    {
+      "w": "\u5b8c",
+      "p": "w ao n"
+    },
+    {
+      "w": "\u5c0f",
+      "p": "sh y aw"
+    },
+    {
+      "w": "\u5c31",
+      "p": "jh y ow"
+    },
+    {
+      "w": "\u5de6",
+      "p": "z w ow"
+    },
+    {
+      "w": "\u5df1",
+      "p": "z ih"
+    },
+    {
+      "w": "\u5df4",
+      "p": "b aa"
+    },
+    {
+      "w": "\u5e76",
+      "p": "p iy ng"
+    },
+    {
+      "w": "\u5f00",
+      "p": "k ay"
+    },
+    {
+      "w": "\u5f0f",
+      "p": "sh ih"
+    },
+    {
+      "w": "\u5fc3",
+      "p": "sh iy n"
+    },
+    {
+      "w": "\u5feb",
+      "p": "k w ay"
+    },
+    {
+      "w": "\u600e",
+      "p": "z ax n"
+    },
+    {
+      "w": "\u603b",
+      "p": "z ow ng"
+    },
+    {
+      "w": "\u60a8",
+      "p": "n iy n"
+    },
+    {
+      "w": "\u60c5",
+      "p": "ch iy ng"
+    },
+    {
+      "w": "\u6211",
+      "p": "w ow"
+    },
+    {
+      "w": "\u6216",
+      "p": "hh w ow"
+    },
+    {
+      "w": "\u6240",
+      "p": "t y aw"
+    },
+    {
+      "w": "\u62ac",
+      "p": "t ay"
+    },
+    {
+      "w": "\u6309",
+      "p": "aa n"
+    },
+    {
+      "w": "\u6389",
+      "p": "d y aw"
+    },
+    {
+      "w": "\u653e",
+      "p": "f aa ng"
+    },
+    {
+      "w": "\u6570",
+      "p": "sh uw"
+    },
+    {
+      "w": "\u6628",
+      "p": "z w ow"
+    },
+    {
+      "w": "\u662f",
+      "p": "sh ih"
+    },
+    {
+      "w": "\u66f2",
+      "p": "ch uw"
+    },
+    {
+      "w": "\u6700",
+      "p": "z ey"
+    },
+    {
+      "w": "\u6709",
+      "p": "y ow"
+    },
+    {
+      "w": "\u670b",
+      "p": "p ax ng"
+    },
+    {
+      "w": "\u6765",
+      "p": "l ay"
+    },
+    {
+      "w": "\u679c",
+      "p": "g w ow"
+    },
+    {
+      "w": "\u6837",
+      "p": "y aa ng"
+    },
+    {
+      "w": "\u6b21",
+      "p": "z uh"
+    },
+    {
+      "w": "\u6b22",
+      "p": "hh w aa n"
+    },
+    {
+      "w": "\u6b63",
+      "p": "zh ax ng"
+    },
+    {
+      "w": "\u6b7b",
+      "p": "s ih"
+    },
+    {
+      "w": "\u6c34",
+      "p": "sh w ey"
+    },
+    {
+      "w": "\u6c49",
+      "p": "hh aa n"
+    },
+    {
+      "w": "\u6cd5",
+      "p": "f aa"
+    },
+    {
+      "w": "\u6d3b",
+      "p": "hh w ow"
+    },
+    {
+      "w": "\u6d6a",
+      "p": "l aa ng"
+    },
+    {
+      "w": "\u6e05",
+      "p": "ch iy ng"
+    },
+    {
+      "w": "\u6e2f",
+      "p": "g aa ng"
+    },
+    {
+      "w": "\u6ee1",
+      "p": "m aa n"
+    },
+    {
+      "w": "\u6f2b",
+      "p": "m aa n"
+    },
+    {
+      "w": "\u70b9",
+      "p": "d y eh n"
+    },
+    {
+      "w": "\u7231",
+      "p": "ay"
+    },
+    {
+      "w": "\u725b",
+      "p": "n y ow"
+    },
+    {
+      "w": "\u738b",
+      "p": "w ao ng"
+    },
+    {
+      "w": "\u73b0",
+      "p": "sh y eh n"
+    },
+    {
+      "w": "\u751c",
+      "p": "t y eh n"
+    },
+    {
+      "w": "\u751f",
+      "p": "sh ax ng"
+    },
+    {
+      "w": "\u7535",
+      "p": "d y eh n"
+    },
+    {
+      "w": "\u767d",
+      "p": "b ay"
+    },
+    {
+      "w": "\u7684",
+      "p": "d ax"
+    },
+    {
+      "w": "\u76ee",
+      "p": "m uw"
+    },
+    {
+      "w": "\u7740",
+      "p": "k aa n"
+    },
+    {
+      "w": "\u77e5",
+      "p": "jh ih"
+    },
+    {
+      "w": "\u77ee",
+      "p": "ay"
+    },
+    {
+      "w": "\u7a7a",
+      "p": "k ow ng"
+    },
+    {
+      "w": "\u7b11",
+      "p": "sh y aw"
+    },
+    {
+      "w": "\u7c73",
+      "p": "m iy"
+    },
+    {
+      "w": "\u7cd5",
+      "p": "g aw"
+    },
+    {
+      "w": "\u7cd6",
+      "p": "t aa ng"
+    },
+    {
+      "w": "\u7ea6",
+      "p": "y w eh"
+    },
+    {
+      "w": "\u7ebd",
+      "p": "n y ow"
+    },
+    {
+      "w": "\u81ea",
+      "p": "z ih"
+    },
+    {
+      "w": "\u821e",
+      "p": "uw"
+    },
+    {
+      "w": "\u8272",
+      "p": "s ax"
+    },
+    {
+      "w": "\u82b1",
+      "p": "h w aa"
+    },
+    {
+      "w": "\u8389",
+      "p": "l iy"
+    },
+    {
+      "w": "\u841d",
+      "p": "l w ow"
+    },
+    {
+      "w": "\u84dd",
+      "p": "l aa n"
+    },
+    {
+      "w": "\u88ab",
+      "p": "b ey"
+    },
+    {
+      "w": "\u897f",
+      "p": "sh iy"
+    },
+    {
+      "w": "\u8981",
+      "p": "y aw"
+    },
+    {
+      "w": "\u8bdd",
+      "p": "hh w aa"
+    },
+    {
+      "w": "\u8bf7",
+      "p": "ch iy ng"
+    },
+    {
+      "w": "\u8c01",
+      "p": "sh ey"
+    },
+    {
+      "w": "\u8d1d",
+      "p": "jh y eh n"
+    },
+    {
+      "w": "\u8d77",
+      "p": "ch iy"
+    },
+    {
+      "w": "\u8fd9",
+      "p": "jh ax"
+    },
+    {
+      "w": "\u90a3",
+      "p": "n aa"
+    },
+    {
+      "w": "\u91d1",
+      "p": "jh iy n"
+    },
+    {
+      "w": "\u957f",
+      "p": "ch aa ng"
+    },
+    {
+      "w": "\u9752",
+      "p": "ch iy ng"
+    },
+    {
+      "w": "\u9762",
+      "p": "m y eh n"
+    },
+    {
+      "w": "\u98ce",
+      "p": "f ax ng"
+    },
+    {
+      "w": "\u9999",
+      "p": "s y aa ng"
+    },
+    {
+      "w": "\u9ad8",
+      "p": "g aw"
+    },
+    {
+      "w": "\u9ed1",
+      "p": "hh ey"
+    }
+  ]
+}
