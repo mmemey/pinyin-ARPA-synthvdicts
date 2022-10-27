@@ -1,5 +1,5 @@
 # Pinyin-ARPAbet-SynthV-Dictionary
-<p>Pinyin support for English Synthesizer V Voicebanks</p>
+<p>Pinyin & Wade-Giles support for English Synthesizer V Voicebanks</p>
 
 # Installation Guide:
 <p>1. Download .json files</p>
@@ -10,4 +10,4 @@
 # Notes
 <p>Built for Synthesizer V Studio ("R2"). Synthesizer V ("R1") may be incompatible.</p>
 <p>As of Synthesizer V Studio 1.5.0, the engine includes Crosslingual AI Synthesis. However, this feature is only available in the Pro editor and only functions with AI voice libraries. This dictionary package aims to provide wider linguistic support for users of Standard or AI Lite voicebanks or the Basic editor.</p>
-<p>Wade-Giles and Cantonese support is planned for later updates.</p>
+<p>Cyrillic Pinyin & Cantonese support is planned for later updates.</p>
